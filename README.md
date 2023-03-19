@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Cheshta Pal, a code wizard with a knack for creating sleek and stylish web applications. 
+
+
+Technologies I have dabbled with 📁
+
+:small_orange_diamond: Languages: JavaScript, Python , HTML , CSS
+
+:small_orange_diamond: Tools: Git, NodeJS, ReactJS 
 <!--
 **cheshta0112/cheshta0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
