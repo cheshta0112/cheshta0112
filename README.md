@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Cheshta Pal, a code wizard with a knack for creating sleek and stylish web applications. 
+I'm Cheshta Pal, I like to develop applications using required technologies, learning stuff on the go.
 
 
 Technologies I have dabbled with 📁
