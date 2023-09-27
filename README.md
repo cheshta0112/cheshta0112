@@ -8,8 +8,15 @@ Technologies I have dabbled with 📁
 :small_orange_diamond: Languages: JavaScript, Python , HTML , CSS
 
 :small_orange_diamond: Tools: Git, NodeJS, ReactJS 
+
+
 - 🌱 I’m currently learning React
- 📫 How to reach me: cheshtapal07@gmail.com
+- 📫 How to reach me: cheshtapal07@gmail.com
+
+Connect with me:
+www.linkedin.com/in/cheshta-pal
+
+
 <!--
 **cheshta0112/cheshta0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
