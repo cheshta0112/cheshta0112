@@ -4,8 +4,14 @@ I'm Cheshta Pal, a passionate developer who loves building applications using a 
 
 ## Technologies I've worked with 📁
 
-- Languages: JavaScript, Python, HTML, CSS
-- Tools: Git, Node.js, React.js
+- **Web Development:**
+  - Languages: JavaScript, Python, HTML, CSS
+  - Frameworks & Libraries: ReactJS, NodeJS, ExpressJS, Redux, Bootstrap
+  - Database: MongoDB, Firebase
+
+- **Version Control:** Git, GitHub
+
+- **Other Tools:** Postman, Netlify
 
 ## What I'm currently up to 🌱
 
@@ -20,3 +26,4 @@ Feel free to reach out to me at [cheshtapal07@gmail.com](mailto:cheshtapal07@gma
 Connect with me on [LinkedIn](https://www.linkedin.com/in/cheshta-pal) to stay updated on my latest projects and professional journey.
 
 Looking forward to connecting with fellow developers and tech enthusiasts! 🚀
+
