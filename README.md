@@ -5,7 +5,7 @@ I'm Cheshta Pal, a passionate developer who loves building applications using a 
 ## Technologies I've worked with 📁
 
 - **Web Development:**
-  - Languages: JavaScript, Python, HTML, CSS
+  - Languages: JavaScript, HTML, CSS
   - Frameworks & Libraries: ReactJS, NodeJS, ExpressJS, Redux, Bootstrap
   - Database: MongoDB, Firebase
 
