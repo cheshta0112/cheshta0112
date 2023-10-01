@@ -1,6 +1,7 @@
-# Hello there! 👋
+<h1 align="center">Hi 👋, I'm Cheshta Pal</h1>
+<h3 align="center">A passionate FullStack developer from India</h3>
 
-I'm Cheshta Pal, a passionate developer who loves building applications using a variety of technologies and enjoys learning on the go.
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 ## Technologies I've worked with 📁
 
