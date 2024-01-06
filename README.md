@@ -25,7 +25,7 @@ Feel free to reach out to me at [cheshtapal07@gmail.com](mailto:cheshtapal07@gma
 
 ## Let's connect on LinkedIn 🤝
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/cheshta-pal) to stay updated on my latest projects and professional journey.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/cheshta-pal) to stay updated on my professional journey.
 
 Looking forward to connecting with fellow developers and tech enthusiasts! 🚀
 
