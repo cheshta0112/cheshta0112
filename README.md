@@ -14,7 +14,7 @@
 
 - **Version Control:** Git, GitHub
 
-- **Other Tools:** Postman, Netlify
+- **Other Tools:** Postman, Netlify , Vercel
 
 ## What I'm currently up to 🌱
 
