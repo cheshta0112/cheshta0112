@@ -9,7 +9,6 @@
 
 - **Web Development:**
   - Languages: JavaScript, HTML, CSS 
-  - Languages: JavaScript, HTML, CSS , Tailwind CSS 
   - Frameworks & Libraries: ReactJS, NodeJS, ExpressJS, Redux, Tailwind CSS
   - Database: MongoDB, Firebase
 
