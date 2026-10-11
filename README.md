@@ -9,8 +9,8 @@
 
 - **Web Development:**
   - Languages: JavaScript, HTML, CSS 
-  - Frameworks & Libraries: ReactJS, NodeJS, ExpressJS, Redux, Tailwind CSS
-  - Database: MongoDB, Firebase
+  - Frameworks & Libraries: ReactJS, NodeJS, ExpressJS, Redux, Tailwind CSS , NestJs
+  - Database: MongoDB, Firebase , SQL
 
 - **Version Control:** Git, GitHub
 
@@ -25,7 +25,7 @@ Feel free to reach out to me at [cheshtapal07@gmail.com](mailto:cheshtapal07@gma
 
 ## Let's connect on LinkedIn 🤝
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/cheshta-pal) to stay updated on my professional journey.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/cheshtapal) to stay updated on my professional journey.
 
 Looking forward to connecting with fellow developers and tech enthusiasts! 🚀
 
